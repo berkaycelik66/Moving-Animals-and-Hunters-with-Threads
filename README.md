@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/40vXwnsI)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11106985&assignment_repo_type=AssignmentRepo)
-# Project 2 Moving Animals and Hunters
+Moving Animals and Hunters with Threads
 
 ## Learning Objectives
 * Concurrency, 
@@ -87,11 +87,3 @@ Note: You can do this by letting the thread check its status before running/movi
 **Tr: bir hayvan ya kendisi veya hunter tarafından öldürülebilmektedir. 
 Hunter tarafından öldürülmede her uykudan döndükten sonra durumunu kontrol ederek eğer ölü ise 
 tüm kaynakları serbest bırakarak çalışmasını sonlandırmasını sağlayabilirsiniz**
-## Grading
-~33 main
-~33 hunter
-~33 animal
-
-I may add some tests later for auto grading.. You may need to submit multiple times.
-
-I have a limited github, so it is best you complete the assignment on your computer then submit it from github, if it is possible.. 
